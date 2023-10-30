@@ -1,0 +1,1 @@
+docker run -h Jair-Meza -v C:\Users\MSI\Desktop\CS-2011:/root/host --rm -it ubuntu:20.04
